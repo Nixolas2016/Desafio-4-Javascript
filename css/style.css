@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(35, 37, 39);  
+}
+
+section {
+    width: 90%;
+}
+
+div.product-card {
+    width: 30%;
+    height: 30vh;
+    margin: 2%;
+    text-align: center;
+    background-color: rgb(151, 16, 16);
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+.precio{
+    color: rgb(38, 189, 24);
+}
